@@ -1,4 +1,4 @@
-# TEACHABLE-MACHINE-Membuat-Model-Machine-Learning-dengan-Mudah
+# TEACHABLE MACHINE Membuat Model Machine Learning dengan Mudah
 
 ## Machine Learning
 Menurut IBM, “Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.” Artinya, Machine Learning adalah salah satu cabang dari AI yang berfokus pada penggunaan data dan algoritma untuk mengikuti pola pikir manusia yang terus berkembang dalam meningkatkan hasil akurasi. Dari machine learning kita bisa mendapatkan machine learning model yang merupakan file yang telah dilatih (train) dengan banyak data sehingga membentuk algoritma untuk mengenali pola tertentu.
@@ -7,6 +7,7 @@ Menurut IBM, “Machine learning is a branch of artificial intelligence (AI) and
 Teachable Machine adalah alat berbasis web yang membuat pembuatan model pembelajaran mesin menjadi cepat, mudah, dan dapat diakses oleh semua orang. Teachable machine bekerja dengan cara mengumpulkan data kedalam kelas-kelas atau kategori kemudian melatih model berdasarkan kelas yang telah dibentuk dan akhirnya menghasilkan model machine learning dalam bentuk Tensorflow.js yang dapat di export dan diunduh.
 
 ## Pratik Menggunakan Hasil Foto MRI Kasus Alzheimer
+
 ### Tools
 1. Dataset
 2. Teachable Machine
